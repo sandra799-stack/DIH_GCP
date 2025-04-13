@@ -1,0 +1,7 @@
+from openai import OpenAI
+import streamlit as st
+from streamlit_feedback import streamlit_feedback
+import trubrics
+
+
+st.title("📝 Standup Points")
